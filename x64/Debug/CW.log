@@ -1,0 +1,45 @@
+﻿D:\MS Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CW - lib.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Door.cpp
+  DoorOpener.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\dooropener.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Hole.cpp
+  Ramp.cpp
+  RotatingBlock.cpp
+  SlidingDoor.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\slidingdoor.cpp(41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SoundManager.cpp
+  SpeedChanger.cpp
+  Ball.cpp
+  ContactListener.cpp
+  DynamicBlock.cpp
+  DynamicCircle.cpp
+  Game.cpp
+  LevelLoader.cpp
+  main.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\main.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\main.cpp(54): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+  Ray.cpp
+  SFMLDebugDraw.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(21): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(30): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(40): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(48): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(57): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(65): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(70): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(75): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(90): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\sfmldebugdraw.cpp(91): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+  Booster.cpp
+  Star.cpp
+  StaticBlock.cpp
+  Generating Code...
+  Compiling...
+  Definition.cpp
+  StaticCircle.cpp
+  StaticPolygon.cpp
+  TextureManager.cpp
+  UI.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\cppassignment\assessment\src\ui.cpp(26): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Generating Code...
+  CW.vcxproj -> C:\Users\hyperbook\Desktop\Studies\2nd Year\2nd term\Advanced C++\Student Pack\CPPAssignment\assessment\x64\Debug\CW.exe

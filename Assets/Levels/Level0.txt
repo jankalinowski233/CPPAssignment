@@ -1,0 +1,13 @@
+Ramp 0 -1.2 8 2 0 0 0.01 ramp
+StaticBlock -4 0 8.2 0.2 90 cobble
+StaticBlock 0 4 8 0.2 0 cobble
+StaticBlock 0 -4 8 0.2 0 cobble
+StaticBlock 4 0 8 0.2 90 cobble
+RotatingBlock -0.55 2 1 0.15 90 1 rubber
+RotatingBlock -0.55 2 1 0.15 0 1 rubber
+RotatingBlock 0.55 2 1 0.15 90 -1 rubber
+RotatingBlock 0.55 2 1 0.15 0 -1 rubber
+Star 0 3 0.5 0.5 0 1 star
+Star 0 -2 0.5 0.5 0 1 star
+Hole 0 -3.5 0.1
+Ball 0 0 0.1 0 0.5 0.5 ball

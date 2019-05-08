@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Static shapes">
+      <UniqueIdentifier>{ae72aa20-1b33-4866-a5ea-f095f90b705c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sensors">
+      <UniqueIdentifier>{418db3cc-c7fa-4d45-8001-163166b3abf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Dynamic shapes">
+      <UniqueIdentifier>{57b420eb-eb4b-40e3-b0aa-0f42795c9057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Raycast">
+      <UniqueIdentifier>{123a24a7-f045-443b-99e0-1ab0c0810c7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Debug">
+      <UniqueIdentifier>{f3ee972f-e5c6-47aa-bf9f-46547705d85c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Resources">
+      <UniqueIdentifier>{20574d42-56dc-4a05-a325-393c9b788138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Level loading">
+      <UniqueIdentifier>{3e753fb4-0bf1-42fa-aa3f-8f33d4ee8fa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\General">
+      <UniqueIdentifier>{eedb14f6-1795-4af6-ab31-95835a7af411}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dynamic shapes">
+      <UniqueIdentifier>{b0dd72b5-16b4-45f9-a02e-c3134973b7ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Debug">
+      <UniqueIdentifier>{8dc8cbe4-55da-49f4-9fef-a50030f5117a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Level loading">
+      <UniqueIdentifier>{a682e7e2-6475-46b1-8f84-38c1d4026e43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\General">
+      <UniqueIdentifier>{c1a89c6d-d34d-4cd4-9c9d-5b220c89a34a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Resources">
+      <UniqueIdentifier>{2ed2b17c-ebcd-452b-bd3d-79c68f5be941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Raycast">
+      <UniqueIdentifier>{3c3766ee-873a-4c6f-87a1-fd7ce6a0cca2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sensors">
+      <UniqueIdentifier>{30ab32b6-038c-439b-b536-4a36b4f9f7d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Static shapes">
+      <UniqueIdentifier>{869806c6-1d6a-4606-8740-6a4b58480e3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Kinematic shapes">
+      <UniqueIdentifier>{13143fb4-5250-49da-93fa-b918095130f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Kinematic shapes">
+      <UniqueIdentifier>{24c7131a-2e1a-4886-894b-dade4f04a590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI">
+      <UniqueIdentifier>{23db8693-22e8-4191-aacd-a2a3bc331917}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{ef7ab36f-5bd0-4c9f-b57c-7b986cfcbe0f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DynamicBlock.cpp">
+      <Filter>Source Files\Dynamic shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DynamicCircle.cpp">
+      <Filter>Source Files\Dynamic shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SFMLDebugDraw.cpp">
+      <Filter>Source Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="src\LevelLoader.cpp">
+      <Filter>Source Files\Level loading</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Definition.cpp">
+      <Filter>Source Files\Level loading</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ContactListener.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game.cpp">
+      <Filter>Source Files\General</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ray.cpp">
+      <Filter>Source Files\Raycast</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Booster.cpp">
+      <Filter>Source Files\Sensors</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StaticBlock.cpp">
+      <Filter>Source Files\Static shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StaticCircle.cpp">
+      <Filter>Source Files\Static shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StaticPolygon.cpp">
+      <Filter>Source Files\Static shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ball.cpp">
+      <Filter>Source Files\Dynamic shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SpeedChanger.cpp">
+      <Filter>Source Files\Sensors</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ramp.cpp">
+      <Filter>Source Files\Sensors</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hole.cpp">
+      <Filter>Source Files\Sensors</Filter>
+    </ClCompile>
+    <ClCompile Include="src\RotatingBlock.cpp">
+      <Filter>Source Files\Kinematic shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Door.cpp">
+      <Filter>Source Files\Dynamic shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DoorOpener.cpp">
+      <Filter>Source Files\Sensors</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UI.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SlidingDoor.cpp">
+      <Filter>Source Files\Kinematic shapes</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Star.cpp">
+      <Filter>Source Files\Sensors</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TextureManager.cpp">
+      <Filter>Source Files\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SoundManager.cpp">
+      <Filter>Source Files\Resources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\StaticBlock.h">
+      <Filter>Header Files\Static shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\StaticCircle.h">
+      <Filter>Header Files\Static shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\StaticPolygon.h">
+      <Filter>Header Files\Static shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Booster.h">
+      <Filter>Header Files\Sensors</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DynamicBlock.h">
+      <Filter>Header Files\Dynamic shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DynamicCircle.h">
+      <Filter>Header Files\Dynamic shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Sensor.h">
+      <Filter>Header Files\Sensors</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Ray.h">
+      <Filter>Header Files\Raycast</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SFMLDebugDraw.h">
+      <Filter>Header Files\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="include\TextureManager.h">
+      <Filter>Header Files\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ShapeFactory.h">
+      <Filter>Header Files\Level loading</Filter>
+    </ClInclude>
+    <ClInclude Include="include\LevelLoader.h">
+      <Filter>Header Files\Level loading</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Definition.h">
+      <Filter>Header Files\Level loading</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ContactListener.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Game.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="include\PhysicalEntity.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Shape.h">
+      <Filter>Header Files\General</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Ball.h">
+      <Filter>Header Files\Dynamic shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SpeedChanger.h">
+      <Filter>Header Files\Sensors</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Ramp.h">
+      <Filter>Header Files\Sensors</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Hole.h">
+      <Filter>Header Files\Sensors</Filter>
+    </ClInclude>
+    <ClInclude Include="include\RotatingBlock.h">
+      <Filter>Header Files\Kinematic shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Door.h">
+      <Filter>Header Files\Dynamic shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DoorOpener.h">
+      <Filter>Header Files\Sensors</Filter>
+    </ClInclude>
+    <ClInclude Include="include\UI.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Star.h">
+      <Filter>Header Files\Sensors</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SlidingDoor.h">
+      <Filter>Header Files\Kinematic shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SoundManager.h">
+      <Filter>Header Files\Resources</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿D:\MS Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CW.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ContactListener.cpp
+  DoorOpener.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\assessment\cw\src\dooropener.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  LevelLoader.cpp
+  UI.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\assessment\cw\src\ui.cpp(24): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  main.cpp
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\assessment\cw\src\main.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\hyperbook\desktop\studies\2nd year\2nd term\advanced c++\student pack\assessment\cw\src\main.cpp(52): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+  Generating Code...
+  CW - lib.vcxproj -> C:\Users\hyperbook\Desktop\Studies\2nd Year\2nd term\Advanced C++\Student Pack\assessment\CW\x64\Debug\CW - lib.lib
